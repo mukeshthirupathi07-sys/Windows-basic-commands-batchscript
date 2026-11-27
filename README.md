@@ -26,6 +26,7 @@ Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
 ```
+```
 <img width="334" height="33" alt="691872256-fe34af08-1f91-4d72-ae7e-bf84c20b7f5e" src="https://github.com/user-attachments/assets/6708b639-28bb-40cd-9a13-ec781a9e5683" />
 ```
 Remove the directory "my-folder"
